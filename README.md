@@ -10,10 +10,9 @@
 > - On mouse hover shows sniper in teal
 > - Kill-feed shows sniper kills in teal 
 > - Sniper shot makes custom sound
-> 
->*U.S. Marines and Devils brigade are in teal, they share a skin with the sniper*
->
->*Spetsnaz and Shock infantry are in teal, they share a skin with the sniper*
+>>*U.S. Marines and Devils brigade are in teal, they share a skin with the sniper
+>>
+>>*Spetsnaz and Shock infantry are in teal, they share a skin with the sniper
 
 >**AT INFANTRY -- MAGENTA**
 > - AT weaponry are magenta, 
