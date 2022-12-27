@@ -5,6 +5,7 @@ INSTALLATION INSTRUCTIONS:
 
 
 CHANGELOG:
+
 SNIPERS -- TEAL
 Snipers are teal, sniper rifles are teal, on mouse hover shows sniper in teal, kill-feed shows sniper kills in teal, sniper shot makes custom sound
 *U.S. Marines and Devils brigade are in teal, they share a skin with the sniper
