@@ -18,25 +18,21 @@
 > - On mouse hover shows AT weaponry in magenta 
 > - Kill-feed shows AT weaponry kills in magenta
 
-**OFFICERS -- YELLOW**
+>**OFFICERS -- YELLOW**
+> - Officers are yellow
+> - on mouse hover shows officer in yellow
 
-Officers are yellow, on mouse hover shows officer in yellow
+>**FLARE GUN -- RED**
+> - Flare gun and radio packs are red, 
+> - on mouse hover shows flare gun user in red
 
+>**FLAMETHROWER -- GREEN**
+> - Flamethrower and flamethrower tank are green
+> - on mouse hover shows flamethrower user in green
 
-**FLARE GUN -- RED**
-
-Flare gun and radio packs are red, on mouse hover shows flare gun user in red
-
-
-**FLAMETHROWER -- GREEN**
-
-Flamethrower and flamethrower tank are green, on mouse hover shows flamethrower user in green
-
-
-**MISCELLANEOUS -- ORANGE**
-
-AT-rifles are orange, on mouse hover shows AT-rifles in orange, kill-feed shows AT-rifle kills in orange
-
-Kill-feed shows knife kills in orange
-
-Machine guns are orange
+>**MISCELLANEOUS -- ORANGE**
+> - AT-rifles are orange 
+> - on mouse hover shows AT-rifles in orange
+> - kill-feed shows AT-rifle kills in orange
+> - Kill-feed shows knife kills in orange
+> - Machine guns are orange
