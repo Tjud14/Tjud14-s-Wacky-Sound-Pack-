@@ -1,11 +1,11 @@
-INSTALLATION INSTRUCTIONS:
+# INSTALLATION INSTRUCTIONS:
 1. Copy "tjud14's wacky sound pack!" to your Men of War: Assault Squad 2 mods folder.
 2. Apply "Tjud14's Wacky Sound Pack!" in the Options>Mods menu.
 3. Enjoy some wacky sounds!
 
 
 
-CHANGELOG:
+# CHANGELOG:
 
 SNIPERS -- TEAL
 
