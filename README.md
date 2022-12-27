@@ -3,20 +3,17 @@
 2. Apply "Tjud14's Wacky Sound Pack!" in the Options>Mods menu.
 3. Enjoy some wacky sounds!
 
-
-
 # CHANGELOG
-**SNIPERS -- TEAL**
-
-Snipers are teal, sniper rifles are teal, on mouse hover shows sniper in teal, kill-feed shows sniper kills in teal, sniper shot makes custom sound
-
-*U.S. Marines and Devils brigade are in teal, they share a skin with the sniper
-
-*Spetsnaz and Shock infantry are in teal, they share a skin with the sniper
-
+>**SNIPERS -- TEAL**
+> - Snipers are teal, 
+> - Sniper rifles are teal 
+> - On mouse hover shows sniper in teal
+> - Kill-feed shows sniper kills in teal 
+> - Sniper shot makes custom sound
+> - *U.S. Marines and Devils brigade are in teal, they share a skin with the sniper
+> - *Spetsnaz and Shock infantry are in teal, they share a skin with the sniper
 
 >**AT INFANTRY -- MAGENTA**
->
 > - AT weaponry are magenta, 
 > - On mouse hover shows AT weaponry in magenta 
 > - Kill-feed shows AT weaponry kills in magenta
