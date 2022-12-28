@@ -24,7 +24,7 @@
 > - On mouse hover shows officer in yellow
 
 >**FLARE GUN -- RED**
-> - Flare gun and radio packs are red, 
+> - Flare gun and radio packs are red,
 > - On mouse hover shows flare gun user in red
 
 >**FLAMETHROWER -- GREEN**
