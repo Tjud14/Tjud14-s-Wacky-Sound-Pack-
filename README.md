@@ -1,11 +1,11 @@
-# INSTALLATION INSTRUCTIONS
+# INSTALLATION
 1. Copy "tjud14's wacky sound pack!" to your Men of War: Assault Squad 2 mods folder.
 2. Apply "Tjud14's Wacky Sound Pack!" in the Options>Mods menu.
 3. Enjoy some wacky sounds!
 
 # CHANGELOG
 >**SNIPERS -- TEAL**
-> - Snipers are teal,
+> - Snipers are teal
 > - Sniper rifles are teal 
 > - On mouse hover shows sniper in teal
 > - Kill-feed shows sniper kills in teal 
@@ -24,7 +24,7 @@
 > - On mouse hover shows officer in yellow
 
 >**FLARE GUN -- RED**
-> - Flare gun and radio packs are red,
+> - Flare gun and radio packs are red
 > - On mouse hover shows flare gun user in red
 
 >**FLAMETHROWER -- GREEN**
