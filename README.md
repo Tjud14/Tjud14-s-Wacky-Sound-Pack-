@@ -5,17 +5,17 @@
 
 # CHANGELOG
 >**SNIPERS -- TEAL**
-> - Snipers are teal, 
+> - Snipers are teal,
 > - Sniper rifles are teal 
 > - On mouse hover shows sniper in teal
 > - Kill-feed shows sniper kills in teal 
 > - Sniper shot makes custom sound
->>*U.S. Marines and Devils brigade are in teal, they share a skin with the sniper
+>>*Veteran Snipers are yellow, they share a skin with officers
 >>
->>*Spetsnaz and Shock infantry are in teal, they share a skin with the sniper
+>>*U.S. Marines, Devils brigade, Spetsnaz, Shock infantry, and Sabatours are in teal, they share a skin with snipers
 
 >**AT INFANTRY -- MAGENTA**
-> - AT weaponry are magenta, 
+> - AT weaponry are magenta
 > - On mouse hover shows AT weaponry in magenta 
 > - Kill-feed shows AT weaponry kills in magenta
 
