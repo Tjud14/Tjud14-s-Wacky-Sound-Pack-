@@ -1,9 +1,9 @@
-# INSTALLATION
+# Installation
 1. Copy "tjud14's wacky sound pack!" to your Men of War: Assault Squad 2 mods folder.
 2. Apply "Tjud14's Wacky Sound Pack!" in the Options>Mods menu.
 3. Enjoy some wacky sounds!
 
-# CHANGELOG
+# Changelog
 >**SNIPERS -- TEAL**
 > - Snipers are teal
 > - Sniper rifles are teal 
@@ -12,7 +12,7 @@
 > - Sniper shot makes custom sound
 >>*Veteran Snipers are yellow, they share a skin with officers
 >>
->>*U.S. Marines, Devils brigade, Spetsnaz, Shock infantry, and Sabatours are in teal, they share a skin with snipers
+>>*U.S. Marines, Devils brigade, Spetsnaz, Shock infantry, Jaegers, and Sabatours are in teal, they share a skin with snipers
 
 >**AT INFANTRY -- MAGENTA**
 > - AT weaponry are magenta
