@@ -1,0 +1,7 @@
+{Mod
+	{Name "Free_Updated_Map_Pack_R6_AS2"}
+	{Desc "Map Pack that will be always updated by the community mappers and modders"}
+	{MinGameVersion "3.260.0"}
+	{MaxGameVersion "3.263.0"}
+	{FileId "260558268"}
+}
