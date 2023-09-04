@@ -1,10 +1,12 @@
 ### Installation
-1. Copy the `free-updated-map-pack-r6-as2-main` folder to your Men of War: Assault Squad 2 mods folder.
+1. Click the green `<> Code ▾` button and select the `Download ZIP option`.
 ![Step 1](./step1.png)
-
-2. Apply `Free_Updated_Map_Pack_R6_AS2` in the `Options>Mods menu`.
-3. ???
-4. Profit! Haha
+2. Copy the `free-updated-map-pack-r6-as2-main` folder to your Men of War: Assault Squad 2 mods folder.
+![Step 2](./step2.png)
+1. Apply `Free_Updated_Map_Pack_R6_AS2` in the `Options>Mods menu`.
+![Step 3](./step3.png)
+1. ???
+2. Profit! Haha 😂
 
 ### Changelog
 🟦 Snipers, Teal
