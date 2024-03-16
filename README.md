@@ -11,9 +11,7 @@
 3. Apply `Free_Updated_Map_Pack_R6_AS2` in the `Options>Mods menu`.
 
    ![Step 3](./installation/step3.png)
-
-4. ???
-5. Profit! Haha 😂
+   
 
 ## Changelog
 
